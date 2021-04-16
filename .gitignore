@@ -1,11 +1,8 @@
+backend
+
+backend1/node_modules
+backend1/package-lock.json
+
+fontend/frontend-typescript
 fontend/node_modules
 fontend/package-lock.json
-
-fontend/frontend-typescript/node_modules
-fontend/frontend-typescript/package-lock.json
-
-backend/node_modules
-backend/package-lock.json
-
-
-backend1/

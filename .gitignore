@@ -1,0 +1,11 @@
+fontend/node_modules
+fontend/package-lock.json
+
+fontend/frontend-typescript/node_modules
+fontend/frontend-typescript/package-lock.json
+
+backend/node_modules
+backend/package-lock.json
+
+
+backend1/
